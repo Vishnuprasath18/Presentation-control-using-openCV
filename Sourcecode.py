@@ -6,7 +6,7 @@ import numpy as np
 # Parameters
 width, height = 800, 800
 gestureThreshold = 400
-folderPath = "E:\langchain\chat\myvirtenv\presentation\presentation"  
+folderPath = "YOUR PATH"  
 
 # Camera Setup
 cap = cv2.VideoCapture(0)
